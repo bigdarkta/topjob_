@@ -1,0 +1,795 @@
+companyName,company_starRating,job_title,employee_residence,listing_jobDesc,salary,requested_url,company_location,company_size
+Ingentis Softwareentwicklung GmbH,5.0,DevOps Engineer (m/w/d),Nürnberg,"Kurz und knapp – so passt du auf unsere Stelle:Du hast ein gutes Verständnis für IT-Systeme (Hard- und Software) und kannst gut Skripten (um Dinge zu Automatisieren). Die technischen Details ergeben sich dann von selbst.Bevor es konkret mit der Stelle weitergeht, möchten wir uns kurz vorstellen: Wir von Ingentis sind ein buntes, humorvolles Team aus mittlerweile über 90 Mitarbeitenden. Wir sind alle per Du und verbringen auch abseits der Arbeit Zeit miteinander – sei es an den hauseigenen Kicker-, Tischtennis und Billardtischen, am Golf-Simulator (den gibt’s wirklich!), beim Pokern oder bei anderen Mitarbeiterevents. Corporate Benefits (Massage, Obst und Eis – kostenlos, versteht sich) und attraktive Zusatzleistungen (Steuerfreier Sachbezug, Option auf Firmenwagen, Bikeleasing, …) sowie moderne Büroräume und eine top IT-Ausstattung sind bei uns selbstverständlich.Deine AufgabenDu arbeitest an der Cloud-Plattform für unsere SaaS-Produkte in der Microsoft AzureSchwerpunkte sind die Entwicklung, die Bereitstellung sowie der Betrieb der PlattformDu automatisierst das Bereitstellen der Infrastruktur, im Sinne von ""Infrastructue as Code"" (IaC)Du optimierst die Systemarchitektur, um eine möglichst hohe Automatisierung beim Deployment sowie dem Betrieb der Anwendung zu erreichenDu hilfst unseren Kollegen aus dem Consulting bei technischen Fragen unserer KundenDein ProfilDu hast eine IT-Ausbildung (Fachinformatiker Systemintegration, Anwendungsentwicklung) oder ein vergleichbares Studium erfolgreich abgeschlossenDu interessierst dich für den Aufbau von Cloud-SystemenDu bist fit im Umgang mit Containern (Linux und Windows)Du findest dich in unserem Tech Stack zurecht: IaaS, Docker, Ansible, Terraform, GitLab (CI/CD), Powershell, Shell ScriptingDu sprichst fließend Deutsch, um dich mit deinen Projektkollegen auszutauschenDafür steht IngentisDu hast ein breites Aufgabenspektrum, das du auf deine Stärken zuschneidestDu arbeitest stark eigenverantwortlich und bringst etwas voranDu bist im engen Kontakt zu den Projekt- und Produktverantwortlichen und bekommst deinen Erfolg unmittelbar mit – deine Leistung und nicht dein Titel zähltDu kannst deinen Spleen ausleben, sei es das Kuscheltier, ein Nerd-Spielzeug oder dein Beat auf den OhrenDu genießt viel VertrauenDu bist uns wichtig - auf deine Belange gehen wir einDas ist bei uns selbstverständlichFlexible Einteilung der ArbeitszeitBis zu 32 Tage UrlaubCorporate BenefitsSteuerfreier SachbezugAnteiliges Arbeiten aus dem Homeoffice möglichModerne Büroräume mit höhenverstellbaren SchreibtischenMöglichkeit zu Firmenwagen, Bikeleasing oder BAVGemeinsame Firmenevents und Aktivitäten, wie Kicker, Billard, Poker, SportKostenlose Softgetränke, Kaffee, Obst, Schokolade, Eis, MassagenMini-Kantine für die PausenverpflegungWir sind alle per DuIm Folgenden noch etwas mehr Details:Du wirst Teil unseres DevOps-Teams und wirst unsere bestehende cloud-ready-Infrastruktur zu cloud-native transformieren. Für einen guten Einstieg steht dir einer unserer Kollegen als Mentor zur Seite, der dir Einblick in unsere Arbeitsweise und unsere Cloud-Anwendungen gibt. Dadurch gelingt es dir zügig Verantwortung für deine neuen Aufgaben zu übernehmen und deine Ideen für technische Optimierungen einzubringen. Die Abstimmung mit den Projekt- und Produktverantwortlichen erfolgt auf dem kurzen Dienstweg.Art der Stelle: Vollzeit, FestanstellungGehalt: 50.000,00€ - 75.000,00€ pro JahrArbeitszeiten:Montag bis FreitagLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungBetriebsarztEmpfehlungsprogrammFlexible ArbeitszeitenGleitzeitHomeofficeKostenlose GetränkeKostenlose MassagenKostenloser ParkplatzKostenloses oder Vergünstigtes EssenMentoring-Programm für MitarbeiterMitarbeiter-RabattZusätzliche UrlaubstageSonderzahlung:13. MonatsgehaltZusatzzahlungen Kurz und knapp – so passt du auf unsere Stelle:Du hast ein gutes Verständnis für IT-Systeme (Hard- und Software) und kannst gut Skripten (um Dinge zu Automatisieren). Die technischen Details ergeben sich dann von selbst.Bevor es konkret mit der Stelle weitergeht, möchten wir uns kurz vorstellen: Wir von Ingentis sind ein buntes, humorvolles Team aus mittlerweile über 90 Mitarbeitenden. Wir sind alle per Du und verbringen auch abseits der Arbeit Zeit miteinander – sei es an den hauseigenen Kicker-, Tischtennis und Billardtischen, am Golf-Simulator (den gibt’s wirklich!), beim Pokern oder bei anderen Mitarbeiterevents. Corporate Benefits (Massage, Obst und Eis – kostenlos, versteht sich) und attraktive Zusatzleistungen (Steuerfreier Sachbezug, Option auf Firmenwagen, Bikeleasing, …) sowie moderne Büroräume und eine top IT-Ausstattung sind bei uns selbstverständlich.Deine AufgabenDu arbeitest an der Cloud-Plattform für unsere SaaS-Produkte in der Microsoft AzureSchwerpunkte sind die Entwicklung, die Bereitstellung sowie der Betrieb der PlattformDu automatisierst das Bereitstellen der Infrastruktur, im Sinne von ""Infrastructue as Code"" (IaC)Du optimierst die Systemarchitektur, um eine möglichst hohe Automatisierung beim Deployment sowie dem Betrieb der Anwendung zu erreichenDu hilfst unseren Kollegen aus dem Consulting bei technischen Fragen unserer KundenDein ProfilDu hast eine IT-Ausbildung (Fachinformatiker Systemintegration, Anwendungsentwicklung) oder ein vergleichbares Studium erfolgreich abgeschlossenDu interessierst dich für den Aufbau von Cloud-SystemenDu bist fit im Umgang mit Containern (Linux und Windows)Du findest dich in unserem Tech Stack zurecht: IaaS, Docker, Ansible, Terraform, GitLab (CI/CD), Powershell, Shell ScriptingDu sprichst fließend Deutsch, um dich mit deinen Projektkollegen auszutauschenDafür steht IngentisDu hast ein breites Aufgabenspektrum, das du auf deine Stärken zuschneidestDu arbeitest stark eigenverantwortlich und bringst etwas voranDu bist im engen Kontakt zu den Projekt- und Produktverantwortlichen und bekommst deinen Erfolg unmittelbar mit – deine Leistung und nicht dein Titel zähltDu kannst deinen Spleen ausleben, sei es das Kuscheltier, ein Nerd-Spielzeug oder dein Beat auf den OhrenDu genießt viel VertrauenDu bist uns wichtig - auf deine Belange gehen wir einDas ist bei uns selbstverständlichFlexible Einteilung der ArbeitszeitBis zu 32 Tage UrlaubCorporate BenefitsSteuerfreier SachbezugAnteiliges Arbeiten aus dem Homeoffice möglichModerne Büroräume mit höhenverstellbaren SchreibtischenMöglichkeit zu Firmenwagen, Bikeleasing oder BAVGemeinsame Firmenevents und Aktivitäten, wie Kicker, Billard, Poker, SportKostenlose Softgetränke, Kaffee, Obst, Schokolade, Eis, MassagenMini-Kantine für die PausenverpflegungWir sind alle per DuIm Folgenden noch etwas mehr Details:Du wirst Teil unseres DevOps-Teams und wirst unsere bestehende cloud-ready-Infrastruktur zu cloud-native transformieren. Für einen guten Einstieg steht dir einer unserer Kollegen als Mentor zur Seite, der dir Einblick in unsere Arbeitsweise und unsere Cloud-Anwendungen gibt. Dadurch gelingt es dir zügig Verantwortung für deine neuen Aufgaben zu übernehmen und deine Ideen für technische Optimierungen einzubringen. Die Abstimmung mit den Projekt- und Produktverantwortlichen erfolgt auf dem kurzen Dienstweg.Art der Stelle: Vollzeit, FestanstellungGehalt: 50.000,00€ - 75.000,00€ pro JahrArbeitszeiten:Montag bis FreitagLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungBetriebsarztEmpfehlungsprogrammFlexible ArbeitszeitenGleitzeitHomeofficeKostenlose GetränkeKostenlose MassagenKostenloser ParkplatzKostenloses oder Vergünstigtes EssenMentoring-Programm für MitarbeiterMitarbeiter-RabattZusätzliche UrlaubstageSonderzahlung:13. MonatsgehaltZusatzzahlungen Mehr anzeigen ","Arbeitgeber-Schtz.:€50,000 - €75,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=112&ao=1110586&s=58&guid=00000182b0cfbf97be20cd36b5aaf0f5&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_4fe0920c&cb=1660823781715&jobListingId=1008064728983&cpc=AE484BB564079092&jrtk=3-0-1gaocvftsma68801-1gaocvfucg4d9800-8ccb5f289ec0a9c2--6NYlbfkN0Ce0TUpudQ-RnNrGu9AxKf296JSGWCbk0edhqqBDh0ONzNUUgJCcnab5tzpQmrqLOc3XXju1zZdHx7z4Lfe5ia2zZDKvOVlhOJjM_ckql668NCKss6Clgpdsnqum3GYoJjFqWetHiNNzRaN1HUYhSDMeZ9nESKXqi1YJRbIKsgLO5lLlJ5VzS-DQvoTYsdDBNo_YIHSiPFxhHBZEbOugxgQj41X7mkzGILzpSQ_SNCHTyAv50sT_Mvusa4FinUbNyY03N5AC7g2wsKSyHXg6nMnlg_SzqOslkVO4F2RJkaEtUPFNpQ_fL1mIDCKRw0NwF12cpkwj9JK1xS7HWt_pUkxMiXkqBGb6fw5dwk4AqLcLQMB8WPRqu-c6QsxX6XGX-uDb-zBhTW6FtpBVvkPi6wE7JibqGD4XCPnbeoeGiXJG6WHcnjn4yMLtmsdx0oMMpKIaHJWZfWO7AKw3W-37ZWvQmPt5cPelPexs4dErvg5ce4-3Iy9cBmDF1hVuEMWQu4qfvnOO8MHbdMIQRS9oLA8,"Nürnberg, Deutschland",51 bis 200 Mitarbeiter
+PERM4 | Permanent Recruiting GmbH,3.0,Linux Admin / DevOps Engineer 100% Remote (w/m/d),Düsseldorf,"PERM4 | Permanent Recruiting unterstützt Sie in den Berufsfeldern Sales, Marketing, Engineering, Construction/Property, IT/TK, Finance, HR und Supply Chain Management bei Ihrem nächsten Karriereschritt. Indem wir Sie, Ihre Fähigkeiten, Erwartungen und Wünsche kennenlernen und Ihnen dann ausschließlich passende Festanstellungen bei attraktiven Arbeitgebern anbieten. Dieser Karriereservice ist für Sie selbstverständlich komplett kostenlos. Sie werden im Rahmen unserer Zusammenarbeit viel von uns erhalten, aber niemals eine Rechnung.
+Linux Admin / DevOps Engineer 100% Remote (w/m/d)
+Ref.-Nr.: PERM4-038051
+Ort: Remote
+Für unseren Kunden in Festanstellung zum nächstmöglichen Zeitpunkt
+Ihre Aufgaben
+Administration von Enterprise Linux Infrastrukturen
+Support für die Operativen Plattformen
+Schnittstelle zwischen der IT-Infrastruktur und den Software-Development-Teams
+Unterstützung bei der Integration einer unternehmensweiten DevOps-Kultur
+Ihr Profil
+Kenntnisse in RedHat Enterprise Linux (oder verwandte Distributionen)
+Erfahrung mit gängigen Virtualisierungstechnologien (z.B. KVM, VMWare, Docker/Podman)
+Kenntnisse mit Continuous Integration (GitLab CI, Jenkins) und Infrastruktur-Automation (Ansible, Salt, Terraform, Cloud-Init)
+Scripting-Erfahrung (Shell, Perl/Python/Ruby)
+Nice to Have: Erfahrung mit Cloud-Plattformen (AWS, Azure)
+Know-how im Umgang mit Source Control Systemen (GIT, SVN, ...)
+Ihre Vorteile
+80.000€ Jahresbruttogehalt
+Attraktives Gehaltspaket, das mit jedem Mitarbeiter einzeln erarbeitet wird, um monetär zu motivieren
+Reines Homeoffice
+Zusammenarbeit in virtuellen Teams
+Spannende und herausfordernde Projekte
+Einbringung eigener Ideen und Gestaltungsspielraum
+Moderne Infrastruktur
+Peripherie wird gestellt und kann individuell ausgewählt werden
+Individuelle Weite
+Ihr Arbeitgeber
+Das Unternehmen ist ein Integrationspartner für kritische Anwendungen. Es konzipiert, integriert und betreibt diese für Endkunden. Das Unternehmen hat verschiedene Projekten am Laufen unteranderem in der Automotive, Energie und Pharma Branche.
+Somit gehört das Arbeiten in virtuellen Teams zur Unternehmenskultur. Sie basiert auf gegenseitigem Vertrauen sowie offener und wohlwollender Kommunikation. PERM4 | Permanent Recruiting unterstützt Sie in den Berufsfeldern Sales, Marketing, Engineering, Construction/Property, IT/TK, Finance, HR und Supply Chain Management bei Ihrem nächsten Karriereschritt. Indem wir Sie, Ihre Fähigkeiten, Erwartungen und Wünsche kennenlernen und Ihnen dann ausschließlich passende Festanstellungen bei attraktiven Arbeitgebern anbieten. Dieser Karriereservice ist für Sie selbstverständlich komplett kostenlos. Sie werden im Rahmen unserer Zusammenarbeit viel von uns erhalten, aber niemals eine Rechnung.
+Linux Admin / DevOps Engineer 100% Remote (w/m/d)
+Ref.-Nr.: PERM4-038051
+Ort: Remote
+Für unseren Kunden in Festanstellung zum nächstmöglichen Zeitpunkt
+Ihre Aufgaben
+Administration von Enterprise Linux Infrastrukturen
+Support für die Operativen Plattformen
+Schnittstelle zwischen der IT-Infrastruktur und den Software-Development-Teams
+Unterstützung bei der Integration einer unternehmensweiten DevOps-Kultur
+Ihr Profil
+Kenntnisse in RedHat Enterprise Linux (oder verwandte Distributionen)
+Erfahrung mit gängigen Virtualisierungstechnologien (z.B. KVM, VMWare, Docker/Podman)
+Kenntnisse mit Continuous Integration (GitLab CI, Jenkins) und Infrastruktur-Automation (Ansible, Salt, Terraform, Cloud-Init)
+Scripting-Erfahrung (Shell, Perl/Python/Ruby)
+Nice to Have: Erfahrung mit Cloud-Plattformen (AWS, Azure)
+Know-how im Umgang mit Source Control Systemen (GIT, SVN, ...)
+Ihre Vorteile
+80.000€ Jahresbruttogehalt
+Attraktives Gehaltspaket, das mit jedem Mitarbeiter einzeln erarbeitet wird, um monetär zu motivieren
+Reines Homeoffice
+Zusammenarbeit in virtuellen Teams
+Spannende und herausfordernde Projekte
+Einbringung eigener Ideen und Gestaltungsspielraum
+Moderne Infrastruktur
+Peripherie wird gestellt und kann individuell ausgewählt werden
+Individuelle Weite
+Ihr Arbeitgeber
+Das Unternehmen ist ein Integrationspartner für kritische Anwendungen. Es konzipiert, integriert und betreibt diese für Endkunden. Das Unternehmen hat verschiedene Projekten am Laufen unteranderem in der Automotive, Energie und Pharma Branche.
+Somit gehört das Arbeiten in virtuellen Teams zur Unternehmenskultur. Sie basiert auf gegenseitigem Vertrauen sowie offener und wohlwollender Kommunikation. PERM4 | Permanent Recruiting unterstützt Sie in den Berufsfeldern Sales, Marketing, Engineering, Construction/Property, IT/TK, Finance, HR und Supply Chain Management bei Ihrem nächsten Karriereschritt. Indem wir Sie, Ihre Fähigkeiten, Erwartungen und Wünsche kennenlernen und Ihnen dann ausschließlich passende Festanstellungen bei attraktiven Arbeitgebern anbieten. Dieser Karriereservice ist für Sie selbstverständlich komplett kostenlos. Sie werden im Rahmen unserer Zusammenarbeit viel von uns erhalten, aber niemals eine Rechnung.
+Linux Admin / DevOps Engineer 100% Remote (w/m/d)
+Ref.-Nr.: PERM4-038051
+Ort: Remote
+Für unseren Kunden in Festanstellung zum nächstmöglichen Zeitpunkt
+Ihre Aufgaben
+Administration von Enterprise Linux Infrastrukturen
+Support für die Operativen Plattformen
+Schnittstelle zwischen der IT-Infrastruktur und den Software-Development-Teams
+Unterstützung bei der Integration einer unternehmensweiten DevOps-Kultur
+Ihr Profil
+Kenntnisse in RedHat Enterprise Linux (oder verwandte Distributionen)
+Erfahrung mit gängigen Virtualisierungstechnologien (z.B. KVM, VMWare, Docker/Podman)
+Kenntnisse mit Continuous Integration (GitLab CI, Jenkins) und Infrastruktur-Automation (Ansible, Salt, Terraform, Cloud-Init)
+Scripting-Erfahrung (Shell, Perl/Python/Ruby)
+Nice to Have: Erfahrung mit Cloud-Plattformen (AWS, Azure)
+Know-how im Umgang mit Source Control Systemen (GIT, SVN, ...)
+Ihre Vorteile
+80.000€ Jahresbruttogehalt
+Attraktives Gehaltspaket, das mit jedem Mitarbeiter einzeln erarbeitet wird, um monetär zu motivieren
+Reines Homeoffice
+Zusammenarbeit in virtuellen Teams
+Spannende und herausfordernde Projekte
+Einbringung eigener Ideen und Gestaltungsspielraum
+Moderne Infrastruktur
+Peripherie wird gestellt und kann individuell ausgewählt werden
+Individuelle Weite
+Ihr Arbeitgeber
+Das Unternehmen ist ein Integrationspartner für kritische Anwendungen. Es konzipiert, integriert und betreibt diese für Endkunden. Das Unternehmen hat verschiedene Projekten am Laufen unteranderem in der Automotive, Energie und Pharma Branche.
+Somit gehört das Arbeiten in virtuellen Teams zur Unternehmenskultur. Sie basiert auf gegenseitigem Vertrauen sowie offener und wohlwollender Kommunikation. Mehr anzeigen ","Arbeitgeber-Schtz.:€80,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=105&ao=1110586&s=58&guid=00000182b0cfbf97be20cd36b5aaf0f5&src=GD_JOB_AD&t=SR&vt=w&cs=1_9027876f&cb=1660823781714&jobListingId=1007851038941&cpc=6750E922C15F3D43&jrtk=3-0-1gaocvftsma68801-1gaocvfucg4d9800-82b86ad611a798cd--6NYlbfkN0Ds1Mk2wnf5ji12W_gZ23ypo-TF04VTiFQAO6RWVx9hcuqQ_bZafr4yFiW9SYCKEpECl0xovrZGU27he6oLHsDshK3V5kfgP6a48hOIgwpBabab4lw_INPKmljMA-uOFfm0ixvQGE4Ubxge7hTmsgW1q2FNXGnDF6l563FblATH68PhFaJZb1KdaesLtR2PlrcQMGgvpHAq74H-Fwhxyp0fn35bHBPMt_97vpYSQ5U3BgPqAH7MM0of5KxiTkl7AtyX2VRadLloYEYm0q1IQCqsLoH590pyRlNkV9JyKOaBsKLpow35x0VKLkyd7Fos1xWJ74V3KmzlnJjYCXDkEJLI4aBUjzqIW88DNdWI5p-nXW_rWGAcqNmG-OR5kyJI0OZtjqAASlzNkDcfUyrYssfPTnmo7aSbOFBC21BHelnvSeQKMK4UrdUWfBLFrfPAEoKeyFVYeo19ySkpYqb0musdRhzHgHXVJfqKnqtc4aA4N1MNGIfDsMyzKrK0BDeJXzcIZH5vTYP6ODwNCgY874GgZSyQraDcZn-xM2iCdX5ne0mHiR9xzAiCK5O1eIfoJLWQKDysa1KNSwfE-jWcMxWP9fqnR2pIa3U%3D,"Berlin, Deutschland",51 bis 200 Mitarbeiter
+Amadeus FiRe,4.1,IT DevOps Engineer (m/w/d) Cloud,Hamburg,"IT DevOps Engineer (m/w/d) Cloud
+Referenz 13-122724
+
+Im Auftrag eines Versicherungs-Unternehmens mit Sitz im Herzen Hamburgs suchen wir zum nächstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 65.000 bis 80.000 Euro je nach Qualifikation Sie als IT DevOps Engineer (m/w/d) Cloud.
+
+Ihre Benefits:
+
+30 Tage Urlaub
+38-Stunden-Woche
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Hauseigene Kantine
+Verpflegungszuschuss
+Fitness- und Gesundheitsprogramme
+Mitarbeiterrabatte
+Fahrtkostenzuschüsse
+Ausbildung und Karriereentwicklung
+
+Ihre Aufgaben:
+Weiterentwicklung und Betrieb der modernen Plattform (sowohl in eigenen Rechenzentren als auch in der Public Cloud) inklusive der zugehörigen Service Landschaft
+Monitoring, Logging und Secret Management
+Mitarbeit in IT Projekten
+
+Ihr Profil:
+Erfolgreich abgeschlossene IT Berufsausbildung zum Fachinformatiker für Systemintegration, IT Technik, Systemkaufmann oder eine vergleichbare Ausbildung im IT Bereich
+Erfahrung mit Kubernetes, Terraform, AWS oder ähnlichen Tools
+Mehrjährige Berufserfahrung in vergleichbaren (IT-) Bereich
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als IT DevOps Engineer (m/w/d) Cloud. Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Frau Anna-Lena Dahl (Tel +49 (0) 40 357573-38 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg IT DevOps Engineer (m/w/d) Cloud
+Referenz 13-122724
+
+Im Auftrag eines Versicherungs-Unternehmens mit Sitz im Herzen Hamburgs suchen wir zum nächstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 65.000 bis 80.000 Euro je nach Qualifikation Sie als IT DevOps Engineer (m/w/d) Cloud.
+
+Ihre Benefits:
+
+30 Tage Urlaub
+38-Stunden-Woche
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Hauseigene Kantine
+Verpflegungszuschuss
+Fitness- und Gesundheitsprogramme
+Mitarbeiterrabatte
+Fahrtkostenzuschüsse
+Ausbildung und Karriereentwicklung
+
+Ihre Aufgaben:
+Weiterentwicklung und Betrieb der modernen Plattform (sowohl in eigenen Rechenzentren als auch in der Public Cloud) inklusive der zugehörigen Service Landschaft
+Monitoring, Logging und Secret Management
+Mitarbeit in IT Projekten
+
+Ihr Profil:
+Erfolgreich abgeschlossene IT Berufsausbildung zum Fachinformatiker für Systemintegration, IT Technik, Systemkaufmann oder eine vergleichbare Ausbildung im IT Bereich
+Erfahrung mit Kubernetes, Terraform, AWS oder ähnlichen Tools
+Mehrjährige Berufserfahrung in vergleichbaren (IT-) Bereich
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als IT DevOps Engineer (m/w/d) Cloud. Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Frau Anna-Lena Dahl (Tel +49 (0) 40 357573-38 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg IT DevOps Engineer (m/w/d) Cloud
+Referenz 13-122724
+
+Im Auftrag eines Versicherungs-Unternehmens mit Sitz im Herzen Hamburgs suchen wir zum nächstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 65.000 bis 80.000 Euro je nach Qualifikation Sie als IT DevOps Engineer (m/w/d) Cloud.
+
+Ihre Benefits:
+
+30 Tage Urlaub
+38-Stunden-Woche
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Hauseigene Kantine
+Verpflegungszuschuss
+Fitness- und Gesundheitsprogramme
+Mitarbeiterrabatte
+Fahrtkostenzuschüsse
+Ausbildung und Karriereentwicklung
+
+Ihre Aufgaben:
+Weiterentwicklung und Betrieb der modernen Plattform (sowohl in eigenen Rechenzentren als auch in der Public Cloud) inklusive der zugehörigen Service Landschaft
+Monitoring, Logging und Secret Management
+Mitarbeit in IT Projekten
+
+Ihr Profil:
+Erfolgreich abgeschlossene IT Berufsausbildung zum Fachinformatiker für Systemintegration, IT Technik, Systemkaufmann oder eine vergleichbare Ausbildung im IT Bereich
+Erfahrung mit Kubernetes, Terraform, AWS oder ähnlichen Tools
+Mehrjährige Berufserfahrung in vergleichbaren (IT-) Bereich
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als IT DevOps Engineer (m/w/d) Cloud. Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Frau Anna-Lena Dahl (Tel +49 (0) 40 357573-38 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Mehr anzeigen ","Arbeitgeber-Schtz.:€65,000 - €80,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=125&ao=1110586&s=58&guid=00000182b0cfbf97be20cd36b5aaf0f5&src=GD_JOB_AD&t=SR&vt=w&cs=1_97437ae6&cb=1660823781716&jobListingId=1008075919833&cpc=DF7064BA3070673B&jrtk=3-0-1gaocvftsma68801-1gaocvfucg4d9800-f42bb026bf6c7b54--6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_-h5lektk8pu7eI-a1eFc0oaYLJKicZ8ECkrYmDtyLlFD_XgiVpjCsTGYimp3SNYNRhJfPRa3DF4RCLxf0A1ToMYnL0wLvMLZ4ssXOngJjSsvWty1Gm0-gxl1leZPVE3hlQRj6GVyWNKXNAwOVbpdqFvBHUEV9sp3wdJg5KWRJajioCP19gGh6QnxK3JNEcTg5nbzxSd0HG_BobM2xtaL1Zp42O7iEMbqk4zQdm0MouxSuro9vIJ2DzXvb0BiN-6utQmN6B_uWc6KQRi3iYsmdbkx6O4RrhqfCd94pMA55kupqeYE1FrJ95wO-tw6nWati7lg3P3TWGEv4ZdEil35WSIS0e0fQKH92uV_V-xZO9JW8bqDH3U1ytnVIYClYLCPj1__a9StVhZct2mNdkvpBK7tP1hW2b2tkkY8m8Xi2WYt0-6K9NJ9wSmmCNwVcsh1JBJRIX_exuKk-jLWhj9SjYM9WTTKOM3En_-GGIBtwomyvjsQstBfFhMyLNUM9eVs0FhcRFC3V-APIMcmfnXcQ2TBNR_sOehOPnKlt0V78AssJt_RntHBlStsHX5snVutYgDzCC54JayHaZ6qXYZ8wReKtkryf8HtXu1VO5_Hiq0MdrNS7-soT9LWDaJDN_7zO16POYlzXNm6N8px3yrN4zuHZyivF2r30avuwUogDohYXY0P4a6qwo-8ntmnD1SxxftQ5YKaEBE_MULBnb5nc0ILVK8A3nfEWnw3DQL0aQPertaR6YdCwAj3QG5bN9jeLtoWhaybNw3kKnwl0S0u91CUs4klLEgMh6DPs82s0yK2bhRPa4UDdRBexyBB_W4y0fckanUzxj0tW_vErp8Zef4_U5haQfgxobA-pQ6vGtar07qbS0EKKrbE1pbecsn0ghpG6e87nYihpCtQbRmOrFUlBa9sSg5v9hrFKUQQTBrxstigqReX53IFnmxr22-w2V_i2ECEdCIZrQ3Wd_pnZ2PI_r-GWyoW8Pzlq6COKdpvTNM7z77SAg%3D,"Frankfurt am Main, Deutschland",1.001 bis 5.000 Mitarbeiter
+amaxo GmbH,5.0,DevOps Engineer (m/ w/ d),Frankfurt am Main,"DevOps Engineer (m/ w/ d)Du suchst ein innovatives sowie agiles Arbeitsumfeld und möchtest spannende IT – Projekte begleiten? Als DevOps Engineer (m/ w/ d) unterstützt Du uns bei spannenden IT – Projekten und der Realisierung von innovativen IT – Lösungen im Cloud – Umfeld. Freu dich auf eine verantwortungsvolle Aufgabe in einem spannenden Umfeld! Bei dem Arbeitgeber handelt es sich um ein etabliertes und renommiertes mittelständisches Unternehmen aus Frankfurt am Main. Geboten wird ein sicheres und stetiges Umfeld, dass durch die Krisen der vergangenen Jahre nicht beeinflusst wurde.Deine Aufgaben- Unterstützung des Zusammenspiels zwischen Development und Operations (Betrieb) als DevOps Engineer- Du unterstützt und berätst unsere Kunden beim Betrieb anspruchsvoller Linux basierter Serverlandschaften- Verantwortung für das Aufsetzen, die Betriebsführung und die Überwachung von Softwareinstallationen auf Linux-Systemen in enger Zusammenarbeit mit unseren Fachbereichen und unserem Softwareentwicklerteam („DevOps“)- Analyse, Evaluierung und Umsetzung von Anforderungen an bestehenden Anwendungen- Gemeinsam mit deinen Kolleg*innen erstellst du DevOps- und Automatisierungskonzepte, setzt CI/ CD- Pipelines auf oder entwickelst diese weiter- Du stellst den agilen Betrieb in der Cloud oder in modernen Rechenzentren sicherDeine Qualifikationen- Wenn Du erfolgreich ein Studium eines technischen oder naturwissenschaftlichen Studiengangs (z.B. Informatik, Mathematik, Ingenieurswissenschaften, o. ä.) abgeschlossen hast oder einen Abschluss einer IT-nahen Ausbildung (z. B. Fachinformatiker)- Mindestens 3 Jahre Berufserfahrung im Bereich der Linux-Systemadministration- Sicherer Umgang mit der Kommandozeile und dem Betriebssystem Linux (CentOS, RHEL und Debian)- Gute Kenntnisse in MySQL-Datenbanken- Fundierte Kenntnisse der gängigen Open Source-Software wie z. B. Apache/ Nginx, Varnish, Tomcat/ Wildfly, Postfix und Dovecot- Erfahrung mit Automatisierungssystemen wie z. B. Puppet und AnsibleUnser Angebot- Erfüllende Aufgaben in aufregenden Projekten mit internationalem Fokus bei großen Mittelstands- und Enterprise-Kunden- Die höchste technische Expertise in Deutschland in unseren Schwerpunktthemen- Individuelle und regelmäßige Weiterbildungen und Zertifizierungen- Ein attraktives Gehaltsmodell mit Boni, Prämien und Zuschüssen z. B. für Kindergarten, privaten Internetanschluss usw.- Technisches Equipment nach Wunsch und unterschiedliche Optionen in Bezug auf moderne und nachhaltige Mobilität (z. B. Firmenwagen, Poolfahrzeug, Job-Rad, u. v. m.)- Gute Vereinbarkeit von Berufs- und Privatleben durch flexible, projektbezogene Arbeitszeitplanung, freie Arbeitsplatzwahl und garantiertem Homeoffice- Hochmoderne Büros und angenehme ArbeitsatmosphäreArt der Stelle: Vollzeit, FestanstellungGehalt: 50.000,00€ - 90.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:AktienoptionenBetriebliche AltersvorsorgeBetriebliche WeiterbildungErfolgsbeteiligungFirmenhandyFirmenwagenFlexible ArbeitszeitenGleitzeitHomeofficeKinderbetreuungKostenloser ParkplatzKostenloses oder Vergünstigtes EssenPreisnachlässe auf Produkte/Dienstleistungen des UnternehmensSabbaticalUnbegrenzte UrlaubstageZusätzliche UrlaubstageSonderzahlung:13. MonatsgehaltProvisionUrlaubsgeldWeihnachtsgeldZusatzzahlungen DevOps Engineer (m/ w/ d)Du suchst ein innovatives sowie agiles Arbeitsumfeld und möchtest spannende IT – Projekte begleiten? Als DevOps Engineer (m/ w/ d) unterstützt Du uns bei spannenden IT – Projekten und der Realisierung von innovativen IT – Lösungen im Cloud – Umfeld. Freu dich auf eine verantwortungsvolle Aufgabe in einem spannenden Umfeld! Bei dem Arbeitgeber handelt es sich um ein etabliertes und renommiertes mittelständisches Unternehmen aus Frankfurt am Main. Geboten wird ein sicheres und stetiges Umfeld, dass durch die Krisen der vergangenen Jahre nicht beeinflusst wurde.Deine Aufgaben- Unterstützung des Zusammenspiels zwischen Development und Operations (Betrieb) als DevOps Engineer- Du unterstützt und berätst unsere Kunden beim Betrieb anspruchsvoller Linux basierter Serverlandschaften- Verantwortung für das Aufsetzen, die Betriebsführung und die Überwachung von Softwareinstallationen auf Linux-Systemen in enger Zusammenarbeit mit unseren Fachbereichen und unserem Softwareentwicklerteam („DevOps“)- Analyse, Evaluierung und Umsetzung von Anforderungen an bestehenden Anwendungen- Gemeinsam mit deinen Kolleg*innen erstellst du DevOps- und Automatisierungskonzepte, setzt CI/ CD- Pipelines auf oder entwickelst diese weiter- Du stellst den agilen Betrieb in der Cloud oder in modernen Rechenzentren sicherDeine Qualifikationen- Wenn Du erfolgreich ein Studium eines technischen oder naturwissenschaftlichen Studiengangs (z.B. Informatik, Mathematik, Ingenieurswissenschaften, o. ä.) abgeschlossen hast oder einen Abschluss einer IT-nahen Ausbildung (z. B. Fachinformatiker)- Mindestens 3 Jahre Berufserfahrung im Bereich der Linux-Systemadministration- Sicherer Umgang mit der Kommandozeile und dem Betriebssystem Linux (CentOS, RHEL und Debian)- Gute Kenntnisse in MySQL-Datenbanken- Fundierte Kenntnisse der gängigen Open Source-Software wie z. B. Apache/ Nginx, Varnish, Tomcat/ Wildfly, Postfix und Dovecot- Erfahrung mit Automatisierungssystemen wie z. B. Puppet und AnsibleUnser Angebot- Erfüllende Aufgaben in aufregenden Projekten mit internationalem Fokus bei großen Mittelstands- und Enterprise-Kunden- Die höchste technische Expertise in Deutschland in unseren Schwerpunktthemen- Individuelle und regelmäßige Weiterbildungen und Zertifizierungen- Ein attraktives Gehaltsmodell mit Boni, Prämien und Zuschüssen z. B. für Kindergarten, privaten Internetanschluss usw.- Technisches Equipment nach Wunsch und unterschiedliche Optionen in Bezug auf moderne und nachhaltige Mobilität (z. B. Firmenwagen, Poolfahrzeug, Job-Rad, u. v. m.)- Gute Vereinbarkeit von Berufs- und Privatleben durch flexible, projektbezogene Arbeitszeitplanung, freie Arbeitsplatzwahl und garantiertem Homeoffice- Hochmoderne Büros und angenehme ArbeitsatmosphäreArt der Stelle: Vollzeit, FestanstellungGehalt: 50.000,00€ - 90.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:AktienoptionenBetriebliche AltersvorsorgeBetriebliche WeiterbildungErfolgsbeteiligungFirmenhandyFirmenwagenFlexible ArbeitszeitenGleitzeitHomeofficeKinderbetreuungKostenloser ParkplatzKostenloses oder Vergünstigtes EssenPreisnachlässe auf Produkte/Dienstleistungen des UnternehmensSabbaticalUnbegrenzte UrlaubstageZusätzliche UrlaubstageSonderzahlung:13. MonatsgehaltProvisionUrlaubsgeldWeihnachtsgeldZusatzzahlungen Mehr anzeigen ","Arbeitgeber-Schtz.:€50,000 - €90,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=218&ao=1136043&s=58&guid=00000182b0d09eef95a9ab886a36a193&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_3c372db6&cb=1660823839058&jobListingId=1007935805023&jrtk=3-0-1gaod17utklv7801-1gaod17vcih79800-a813a2712d64bb0a-,"Rodgau, Deutschland",Unbekannt
+Async Software,NA,DevOps Specialist (m/w/d) - 100% remote,Hamburg,"Deine AufgabeAls DevOps Specialist unterstützt du unsere Kunden bei der Konzeption, Umsetzung & Weiterentwicklung ihrer Infrastruktur. Dazu gehört das Aufsetzen von Dev- & Produktiv-Umgebungen, Monitoring, CI/CD... Neben der eigentlichen ""Programmierarbeit"" unterstützt du dein Team bei Problemen, z.B. in Codereviews, PairProgramming oder als Rubberduck.Wenn du dich in deiner Weiterbildungszeit in ein interessantes Thema hineingearbeitet hast, freuen wir uns, wenn du es mir dem ganzen Team teilst.Deine SkillsKubernetesDockerTerraformAgiles MindsetCloudCI/CDÜber unsWir sind ein junges, dynamisches Unternehmen, dadurch hast du die Möglichkeit, die Kultur und unseren Tech-Stack aktiv mitzugestalten. Trotz unserer StartUp-Mentalität sind wir profitabel und daher nicht auf externes Funding angewiesen. Wir legen Wert auf Ausgeglichenheit und Motivation. Die Stelle ist 100% remote und bietet dir somit volle Flexibilität hinsichtlich wo und wann du arbeiten möchtest.Bei Async legen wir viel Wert auf unser Daily und besonders unsere Retros - nicht weil es das ScrumManifest so will, sondern weil es eine tolle Gelegenheit ist, um seine Kolleg*innen besser kennenzulernen und sich gemeinsam zu verbessern.Was wir dir bieten100% remotevolle Flexibilität für deine Arbeitszeiten und dem OrtMitgestaltung des Tech-Stacksfreundliches, aufgeschlossen und wiss­be­gie­riges TeamIst die Stelle genau das wonach du gesucht hast? Du möchtest uns kennenlernen? Dann bewirb dich jetzt bei uns!Art der Stelle: Vollzeit, Teilzeit, FestanstellungArbeitsstunden: 36-40 pro WocheGehalt: 70.000,00€ - 80.000,00€ pro JahrArbeitszeiten:Montag bis FreitagLeistungen:Flexible ArbeitszeitenHomeofficeSabbaticalSonderzahlungen:WeihnachtsgeldBerufserfahrung:DevOps: 3 Jahre (Wünschenswert)Sprache:Deutsch (Wünschenswert) Deine AufgabeAls DevOps Specialist unterstützt du unsere Kunden bei der Konzeption, Umsetzung & Weiterentwicklung ihrer Infrastruktur. Dazu gehört das Aufsetzen von Dev- & Produktiv-Umgebungen, Monitoring, CI/CD... Neben der eigentlichen ""Programmierarbeit"" unterstützt du dein Team bei Problemen, z.B. in Codereviews, PairProgramming oder als Rubberduck.Wenn du dich in deiner Weiterbildungszeit in ein interessantes Thema hineingearbeitet hast, freuen wir uns, wenn du es mir dem ganzen Team teilst.Deine SkillsKubernetesDockerTerraformAgiles MindsetCloudCI/CDÜber unsWir sind ein junges, dynamisches Unternehmen, dadurch hast du die Möglichkeit, die Kultur und unseren Tech-Stack aktiv mitzugestalten. Trotz unserer StartUp-Mentalität sind wir profitabel und daher nicht auf externes Funding angewiesen. Wir legen Wert auf Ausgeglichenheit und Motivation. Die Stelle ist 100% remote und bietet dir somit volle Flexibilität hinsichtlich wo und wann du arbeiten möchtest.Bei Async legen wir viel Wert auf unser Daily und besonders unsere Retros - nicht weil es das ScrumManifest so will, sondern weil es eine tolle Gelegenheit ist, um seine Kolleg*innen besser kennenzulernen und sich gemeinsam zu verbessern.Was wir dir bieten100% remotevolle Flexibilität für deine Arbeitszeiten und dem OrtMitgestaltung des Tech-Stacksfreundliches, aufgeschlossen und wiss­be­gie­riges TeamIst die Stelle genau das wonach du gesucht hast? Du möchtest uns kennenlernen? Dann bewirb dich jetzt bei uns!Art der Stelle: Vollzeit, Teilzeit, FestanstellungArbeitsstunden: 36-40 pro WocheGehalt: 70.000,00€ - 80.000,00€ pro JahrArbeitszeiten:Montag bis FreitagLeistungen:Flexible ArbeitszeitenHomeofficeSabbaticalSonderzahlungen:WeihnachtsgeldBerufserfahrung:DevOps: 3 Jahre (Wünschenswert)Sprache:Deutsch (Wünschenswert) Mehr anzeigen ","Arbeitgeber-Schtz.:€70,000 - €80,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=207&ao=1136043&s=58&guid=00000182b0d09eef95a9ab886a36a193&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_10ce4168&cb=1660823839057&jobListingId=1008055265087&jrtk=3-0-1gaod17utklv7801-1gaod17vcih79800-19fcd990b61fb0f1-,NA,NA
+Amaxo GmbH,NA,DevOps Engineer,Frankfurt am Main,"Linux-Administrator / DevOps Engineer gesucht, Remote!Welche Aufgaben Sie erwarten?Sie werden als Devops Engineer die Digitalisierung im Unternehmen vorantreiben, dabei die Weiterentwicklung der vorhandenen IT-Infrastruktur betreuen, Analyse und Behebung von Störungsfällen übernehmen. Dabei können Sie an der Wurzel des deutschen Internets, in der Domain-Verwaltung von .de, Ihre eigenen Ideen mit einbringen.Was wird Ihnen geboten?Nutze die Chance in ein weltweites Netzwerk mit unbegrenzten Entwicklungsmöglichkeiten einzusteigenFür eine qualitativ hochwertige Einarbeitung in einem innovativen und zukunftsträchtigen ArbeitsumfeldEine offene Unternehmenskultur und eine vertrauensvolle Arbeitsatmosphäre in der sich die Mitarbeiter persönlich kennen, flache Hierarchien und kurze EntscheidungswegeWir erkennen persönliche Leistungen an und setzen auf verschiedenste Weiterbildungs- und Entwicklungsmaßnahmen, um neue Fähigkeiten und Kenntnisse zu entdecken und auszubauenWir leben flexible Arbeitszeitmodelle inkl. Home-OfficeWas wird erwartet?Ein abgeschlossenes Studium, Ausbildung im Bereich IT oder vergleichbare QualifikationLeidenschaft und Begeisterung für neue Technologien und Themen rund um: Linux (Fedora, Debian, Alpine,...) Docker und KubernetesErfahrung mit Automatisierungstools wie Jenkins oder Scalr,Erfahrungen mit CI/CD PipelinesMöglichst Kenntnisse im Bereich DNS / DNSSEC sowie Nameserversoftware (BIND, Knot, NSD)Von Vorteil sind auch Kenntnisse einer Programmiersprache (Python, Golang) und Skripting (Bash)Hohes Maß an Serviceorientierung, schnelles Auffassungsvermögen, lösungsorientierte VorgehensweiseWenn Ihr Interesse geweckt wurde, dann rufen Sie mich an unter der +49 (0) 69 9999 887 21.Art der Stelle: Vollzeit, FestanstellungGehalt: 65.000,00€ - 100.000,00€ pro JahrArbeitszeiten:TagschichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungSonderzahlung:13. Monatsgehalt Linux-Administrator / DevOps Engineer gesucht, Remote!Welche Aufgaben Sie erwarten?Sie werden als Devops Engineer die Digitalisierung im Unternehmen vorantreiben, dabei die Weiterentwicklung der vorhandenen IT-Infrastruktur betreuen, Analyse und Behebung von Störungsfällen übernehmen. Dabei können Sie an der Wurzel des deutschen Internets, in der Domain-Verwaltung von .de, Ihre eigenen Ideen mit einbringen.Was wird Ihnen geboten?Nutze die Chance in ein weltweites Netzwerk mit unbegrenzten Entwicklungsmöglichkeiten einzusteigenFür eine qualitativ hochwertige Einarbeitung in einem innovativen und zukunftsträchtigen ArbeitsumfeldEine offene Unternehmenskultur und eine vertrauensvolle Arbeitsatmosphäre in der sich die Mitarbeiter persönlich kennen, flache Hierarchien und kurze EntscheidungswegeWir erkennen persönliche Leistungen an und setzen auf verschiedenste Weiterbildungs- und Entwicklungsmaßnahmen, um neue Fähigkeiten und Kenntnisse zu entdecken und auszubauenWir leben flexible Arbeitszeitmodelle inkl. Home-OfficeWas wird erwartet?Ein abgeschlossenes Studium, Ausbildung im Bereich IT oder vergleichbare QualifikationLeidenschaft und Begeisterung für neue Technologien und Themen rund um: Linux (Fedora, Debian, Alpine,...) Docker und KubernetesErfahrung mit Automatisierungstools wie Jenkins oder Scalr,Erfahrungen mit CI/CD PipelinesMöglichst Kenntnisse im Bereich DNS / DNSSEC sowie Nameserversoftware (BIND, Knot, NSD)Von Vorteil sind auch Kenntnisse einer Programmiersprache (Python, Golang) und Skripting (Bash)Hohes Maß an Serviceorientierung, schnelles Auffassungsvermögen, lösungsorientierte VorgehensweiseWenn Ihr Interesse geweckt wurde, dann rufen Sie mich an unter der +49 (0) 69 9999 887 21.Art der Stelle: Vollzeit, FestanstellungGehalt: 65.000,00€ - 100.000,00€ pro JahrArbeitszeiten:TagschichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungSonderzahlung:13. Monatsgehalt Mehr anzeigen ","Arbeitgeber-Schtz.:€65,000 - €100,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=227&ao=1136043&s=58&guid=00000182b0d09eef95a9ab886a36a193&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_e2c05cbb&cb=1660823839063&jobListingId=1008022859736&jrtk=3-0-1gaod17utklv7801-1gaod17vcih79800-19445462d3c2814c-,NA,NA
+Cargonexx GmbH,2.8,DevOps Engineer (m/f/d),Hamburg,"We are looking for a candidate with a strong DevOps engineering background to join our team and help develop our SaaS product(s) as a DevOps Engineer.VollzeitHamburg70.000€ - 90.000€Your rolePosition OverviewWe are looking for a candidate with a strong engineering background to join our team and help develop our SaaS product(s) as a DevOps Engineer.Our primary infra & tech stack is: Typescript, AWS, CDK, Serverless (Lambda), Github Actions, React (17+), NestJs and Microfrontends via Webpack5 Module Federation – all via a Mono-Repo setup.ResponsibilitiesDevelop and maintain efficient, easy to understand and easy to maintain infrastructureImprove existing infrasture to be more understandable, maintainable and secureImplement improved logging and monitoring for services on a continuous basisEnsure best response time, while still managing a healthy cloud infrastructure budgetDevelop product features when neededRequirementsFluency in EnglishAble to clearly and effectively communicateExperience with Infrastructure as code (CDK, Terraform, etc...)Experience working with a cloud based infrastructureExperience working with AWSDesirable, but not requiredFluency in GermanResides in HamburgTL;DRWe are looking for a strong, frontend engineer who is eager to learn and able to take user requirements and transform them into a working application. Despite the long list of requirements, we care less about what exactly you know. Instead, what's more important is that we find a candidate who is:HumbleEasy to work withGreat at communicatingWilling to both teach, as well as learn, for their peersNot afraid of taking on new challenges where the road isn't always clear. We're a startup after all, so we're figuring some of it out as we go along ;)And lastly... Let's build something cool and have fun along the way!Job Type: Full-timeSalary: 70,000.00€ - 90,000.00€ per year We are looking for a candidate with a strong DevOps engineering background to join our team and help develop our SaaS product(s) as a DevOps Engineer.VollzeitHamburg70.000€ - 90.000€Your rolePosition OverviewWe are looking for a candidate with a strong engineering background to join our team and help develop our SaaS product(s) as a DevOps Engineer.Our primary infra & tech stack is: Typescript, AWS, CDK, Serverless (Lambda), Github Actions, React (17+), NestJs and Microfrontends via Webpack5 Module Federation – all via a Mono-Repo setup.ResponsibilitiesDevelop and maintain efficient, easy to understand and easy to maintain infrastructureImprove existing infrasture to be more understandable, maintainable and secureImplement improved logging and monitoring for services on a continuous basisEnsure best response time, while still managing a healthy cloud infrastructure budgetDevelop product features when neededRequirementsFluency in EnglishAble to clearly and effectively communicateExperience with Infrastructure as code (CDK, Terraform, etc...)Experience working with a cloud based infrastructureExperience working with AWSDesirable, but not requiredFluency in GermanResides in HamburgTL;DRWe are looking for a strong, frontend engineer who is eager to learn and able to take user requirements and transform them into a working application. Despite the long list of requirements, we care less about what exactly you know. Instead, what's more important is that we find a candidate who is:HumbleEasy to work withGreat at communicatingWilling to both teach, as well as learn, for their peersNot afraid of taking on new challenges where the road isn't always clear. We're a startup after all, so we're figuring some of it out as we go along ;)And lastly... Let's build something cool and have fun along the way!Job Type: Full-timeSalary: 70,000.00€ - 90,000.00€ per year Mehr anzeigen ","Arbeitgeber-Schtz.:€70,000 - €90,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=209&ao=1136043&s=58&guid=00000182b0d09eef95a9ab886a36a193&src=GD_JOB_AD&t=SR&vt=w&cs=1_c70f6b11&cb=1660823839057&jobListingId=1007961511676&jrtk=3-0-1gaod17utklv7801-1gaod17vcih79800-74b72a05f09b4b59-,"Hamburg, Deutschland",51 bis 200 Mitarbeiter
+iteratec GmbH,4.5,Softwareentwickler (m|w|d),Düsseldorf,"Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Mehr anzeigen ","Arbeitgeber-Schtz.:€58,000 - €79,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=309&ao=1110586&s=58&guid=00000182b0d1ac7bb2eb97cff1dbc7ad&src=GD_JOB_AD&t=SR&vt=w&cs=1_98444c6a&cb=1660823907939&jobListingId=1008022506449&cpc=F1F9710DED3F09F8&jrtk=3-0-1gaod3b66kujs801-1gaod3b6q2eaa000-514ab994a58df1ac--6NYlbfkN0CBRHd_iQPT1DElgM-OuNei7-v7Otuc4XjbXoyChXm3EAR6_pqO8IHYII5JiUtyBykz8K8TGV2wp34oitdRF79Uxlejupex7qOIqfS6NsxT3eUuKXoM80Zjchmh2pmfM1GTxXxjVtB4FKFnuUhI4COacGsbIRJV8vyMNHSM3Fzf9ETRSgap6w3IF6HmFPO96L2TSJDWScfF1nQBR5V9v2SnevgMVqXk4guTyT5DFNzvZVFIznsDYA4hHkV0A49Mj928RFglh1sisVouzsc2oRMWlqQ6ioTrykCQGxZcNZenhanBPrzXORRJe02TBUARn3uCQWPBh_A20bbYPzNH5pMF5Azu0iFVgT-9xUlR1Eee4mgLa__rcevxUlbvKCjIShzADHL2ON697af_oTuPM-gX72hwzk6u0dGR1kDNTbIfG7A2oiPFetStv-T3Jv8LTzR_vTr1w_n3GPhe6y3_VpUQ1lv9WdVPPOIEjA9AoECs3EuaW8wSY8V7oZCEuEQr_jynj5XkEqtixQ%3D%3D,"München, Deutschland",201 bis 500 Mitarbeiter
+Noir Consulting,5.0,DevOps Engineer – Munich / Fully Remote,München,"DevOps Engineer - Munich / Fully Remote
+
+(Tech stack: DevOps Engineer, PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy, Agile, TDD, DevOps Engineer, Urgent)
+
+Our client is a crowd funded social advertising technology platform that sells services to Facebook advertisers to grow their marketing ROI. They were recently named one of 12 Facebook Strategic Preferred Marketing Developers (PMD); the highest distinction of excellence Facebook has ever offered their marketing partners. They have already grown by 100% in the past 6 months and have ambitions to quadruple headcount over the next 2 years including a talented DevOps Engineer.
+
+We are seeking a gifted DevOps Engineer who has a genuine passion for delivering revolutionary solutions. DevOps Engineer candidates should be experienced in some or all of the following (full training will be provided to fill any gaps in your skill set): PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy and Agile and TDD.
+
+This is an amazing opportunity to join a firm that has revolutionized its industry and to work on groundbreaking software development projects as a DevOps Engineer!
+
+Location: Munich / Fully Remote
+
+Salary: €60.000 - €80.000 + Bonus + Benefits
+
+Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+
+NOIRGERMANYREC
+
+NOIREUROPEREC DevOps Engineer - Munich / Fully Remote
+
+(Tech stack: DevOps Engineer, PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy, Agile, TDD, DevOps Engineer, Urgent)
+
+Our client is a crowd funded social advertising technology platform that sells services to Facebook advertisers to grow their marketing ROI. They were recently named one of 12 Facebook Strategic Preferred Marketing Developers (PMD); the highest distinction of excellence Facebook has ever offered their marketing partners. They have already grown by 100% in the past 6 months and have ambitions to quadruple headcount over the next 2 years including a talented DevOps Engineer.
+
+We are seeking a gifted DevOps Engineer who has a genuine passion for delivering revolutionary solutions. DevOps Engineer candidates should be experienced in some or all of the following (full training will be provided to fill any gaps in your skill set): PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy and Agile and TDD.
+
+This is an amazing opportunity to join a firm that has revolutionized its industry and to work on groundbreaking software development projects as a DevOps Engineer!
+
+Location: Munich / Fully Remote
+
+Salary: €60.000 - €80.000 + Bonus + Benefits
+
+Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+
+NOIRGERMANYREC
+
+NOIREUROPEREC DevOps Engineer - Munich / Fully Remote
+
+(Tech stack: DevOps Engineer, PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy, Agile, TDD, DevOps Engineer, Urgent)
+
+Our client is a crowd funded social advertising technology platform that sells services to Facebook advertisers to grow their marketing ROI. They were recently named one of 12 Facebook Strategic Preferred Marketing Developers (PMD); the highest distinction of excellence Facebook has ever offered their marketing partners. They have already grown by 100% in the past 6 months and have ambitions to quadruple headcount over the next 2 years including a talented DevOps Engineer.
+
+We are seeking a gifted DevOps Engineer who has a genuine passion for delivering revolutionary solutions. DevOps Engineer candidates should be experienced in some or all of the following (full training will be provided to fill any gaps in your skill set): PowerShell, Bash, Jenkins, Azure, AWS, SQL Server, Windows Server, .NET, C#, IIS, ARM Templates, Infrastructure as Code, Git, Pester, OctopusDeploy and Agile and TDD.
+
+This is an amazing opportunity to join a firm that has revolutionized its industry and to work on groundbreaking software development projects as a DevOps Engineer!
+
+Location: Munich / Fully Remote
+
+Salary: €60.000 - €80.000 + Bonus + Benefits
+
+Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+
+NOIRGERMANYREC
+
+NOIREUROPEREC Mehr anzeigen ","Arbeitgeber-Schtz.:€60,000 - €80,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=317&ao=1110586&s=58&guid=00000182b0d1ac7bb2eb97cff1dbc7ad&src=GD_JOB_AD&t=SR&vt=w&cs=1_7497e938&cb=1660823907940&jobListingId=1008070899894&cpc=4B86475FAF393599&jrtk=3-0-1gaod3b66kujs801-1gaod3b6q2eaa000-05317bbd68d51348--6NYlbfkN0Aj4-Lc4C6Hb0ykU3jOktLDIAAw4anZygn__rtZFvHgNdIi2OHZuazv2BWZSwvnzFovieiieyaIO2uDtCIYjH5d4SBi_y53QwbX2fkoMRj4EzshxY5KttiJVsf4lZM2vPrLrigRzPYknOLH9pEHJd4Dlo8FSFWFD1M1hhzbPb-gwomMMs3lpJTCOl-wQZT9gYvwNVRi8kfrviUQ0McY37Pc5YlJ63xcIfhd71MDLNHLAYvVWZRSCYmLEsh4R39lby6FHfdgC78DYLsVkrzcnR2XmQeFJfuVZajBTz55qTYhazXjAMGJBP-B3P9aMUgsEKrEQJRNvrsfVuqCP8LqNhmkTcBICPcGTFeUiomWELnrtJYlPN6YNZ6gHQzBjDqda4adDxNRsfFrrVctvVhh9_dMnOrCoFFsUNIVbjUy7cZrdkNImBtNgTjPLgv_0vvdBRlOwGskV87ZKhvv6yhVvh83HAfl7jjAO3dbkuDAAYtszNxf1nl6E8iVC8XZ5x5cJCTowT7JsmcOxYlGfZtp41hwQYp1MhVNSrfgf6AAxtHU9g%3D%3D,"London, Vereinigtes Königreich",51 bis 200 Mitarbeiter
+Amadeus FiRe,4.1,Systemadministrator DevOps (m/w/d),Ahrensburg,"Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Mehr anzeigen ","Arbeitgeber-Schtz.:€70,000 - €85,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=305&ao=1110586&s=58&guid=00000182b0d1ac7bb2eb97cff1dbc7ad&src=GD_JOB_AD&t=SR&vt=w&cs=1_c2b1b4c7&cb=1660823907937&jobListingId=1008075913005&cpc=63C68CF611DF075E&jrtk=3-0-1gaod3b66kujs801-1gaod3b6q2eaa000-7bac6efde0df5ccf--6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_-h5lektk8puAxoHBMdPOe64a4eN_Peo8hTRkU0j_ls2jZ1dYu9VJjNtZp55fqAC0v9YOG1O16pzekHbsatWSatmKu3SRQ6EpxRJI-CBy0T6EJV0bEpqwDkb4OIloUXf18deXQScf6dUFh-ku1d5hXO3Dc4kAmMTRS04Y2IcqIMQmWy_9FRlXOftwTbVo_4-8mT0CbP0mRsoo16q0-ZMXL33MtR15SyYT9GQKTJnsROEeREhrVAYORNQNtZCiXi3lN07kHO2wQ79tmPFb1mbAsFV6pd1QKYE4b2AQidfGGf3cF9hHwHtiFELaEdD-0_1q9xxn_8K8XsJBTETiw_g63HS_TSouCl4TmNEhGxKRsfO1GMD1PLq_xPPEX3Ygt_S8Fv2qat61xWo7s404DfKcodnf86XJ3bD2meISzbMaCn1m3_0Ef7252sAnHmXgMlBSzo9LEP5-Hyax3gUfl9so3Qc7eYVC-wRiXfOuXhetk-Oc54b1_E0D5Ft2V1BIBQEhHx41aj1KogFsFElW0q9MhST9Pix1HPmEkapBlL3Qm3_BOqg7ezUCf28IdoRMlI2G-YBqstJJVLN95z6QbDx8cX0jRzqKR-mrjsQiRCKJVepfFWPLl5T7ddV_8dK9hypFPGby_Oa-lNL6Zg_Lqicbl7c0Xw2o9BxAYUWeg7WLWWYe2Hz5PpR1kmBCWqjK2i4MFA_UE7_0VGWCB2sT28tXbJW8C3yaTyb6MnrvxN356YXGUGbbQ2-1SnrmY2uBhSY_2E3POdiLTlLg8zreg_sMKFwBF6evY9Tb-oqnydRpMRwJgbZWUpAaQDydZBVrRIHevBkHGi5LenqlJCDbytrhwPpGvnPQ-jH3Rh-4c4hytWQ3okuRPTvL6TzAn2VHmMnOPBLE0woMzcp1939vPvc64L8RQHh_m1RSx8e8ITDeigKaBP3dGmjKDx51JnLC06W_RcR7TmEIMvUwUiUyEiFlxuLfkGQe1nw7PqFJ3Bqz0uAgkeg-w1Ho5s%3D,"Frankfurt am Main, Deutschland",1.001 bis 5.000 Mitarbeiter
+Amadeus FiRe,4.1,Systemadministrator DevOps (m/w/d),Ahrensburg,"Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Mehr anzeigen ","Arbeitgeber-Schtz.:€70,000 - €85,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=416&ao=1110586&s=58&guid=00000182b0d26d6a810a83f04ae85cd7&src=GD_JOB_AD&t=SR&vt=w&cs=1_1c496f89&cb=1660823957369&jobListingId=1008075913005&cpc=0F120DD93C91FC85&jrtk=3-0-1gaod4rdqkcm3801-1gaod4re6g4ei800-7bac6efde0df5ccf--6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_-h5lektk8puAxoHBMdPOe64a4eN_Peo8hTRkU0j_ls2jZ1dYu9VJjNtZp55fqAC0v9YOG1O16pzekHbsatWSatmKu3SRQ6EpxRJI-CBy0T6EJV0bEpqwDkb4OIloUXf18deXQScf6dUOp0qX-KGvAA5URf2Stx3tM6zqz8W0evR1GobZ01UMPBE6C6jTa1vK34Z4sQQNcIMVveLugqzeBEJzXenZ2hrwh230-tMhXeNYmqqqwCvKR6xKV1slfQakc4nZHTXrtZw9kSQlC903JGT8Saw0IK8DrdFCqJalD5eEUd4Ui4Hn-7VOuzyTDXcLZ8VOvK2UdOVK840HsHJE3X_cTU6YTIg5Sk4X1F4Z5vnqR1VzEO6p1vFp5A8XSr8Dg98TPq1c7Eixk4-9s7zLK9nsONnBsxsZ43ETlTXUY0kZIV3wbl1IP2DJ7uf045_TkFU6yoKnI75jGM31qV6SRTrDAD60EHM6KcHS24NIBQZq8IHhMtcTWQ9GC_nkKNeRS4e40ju8EcWPwdS_wbv9ysTmQL-RM7qSGqo6Dq1zW6kJl0TjccJRJ9GQhDa8aLjDT7dLocv3PKOkA_ZiOnQSsHdpWUYhS-F-vq5hhEBuX-DrOqycZ5QgAlY6zQ4gFXmG-CboSZ8cVytFEqfZNhI6c6tnVY3Fu2CuptYZGW-o5SFDVU6z-FPCgTZmMi2ETkj1FWs7HD8OtntXsxtQYZLhfq_z_SFXWzNSmwDdu5_rmsn75-R8cCPxSvqlkhvFjo_VWePLSHL9B9EoTaLvWZbM0Bsp07wz5qfGSDw2fl97GS9HJ1V9o8nhW1KkegxPfZJLjCJjwIiq_Ps82JUmW1lGUZD8Wxww6lP-IeZ1mcQm70WQDe2DdETG3gyNDoRe0Kkm4M4vMJIjD7eys48fIXu9mKGMGIo0DWRqbc8G74JBoN8a32LX1MyCJYrTml1ve3I2oLmk2pZG-cdlBtFqajz_UGcRMyV6P9fJdRWv8Tw79ZxVzzKbsv8VeY%3D,"Frankfurt am Main, Deutschland",1.001 bis 5.000 Mitarbeiter
+iteratec GmbH,4.5,Softwareentwickler (m|w|d),Düsseldorf,"Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Mehr anzeigen ","Arbeitgeber-Schtz.:€58,000 - €79,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=422&ao=1110586&s=58&guid=00000182b0d26d6a810a83f04ae85cd7&src=GD_JOB_AD&t=SR&vt=w&cs=1_9feacab8&cb=1660823957370&jobListingId=1008022506449&cpc=F1F9710DED3F09F8&jrtk=3-0-1gaod4rdqkcm3801-1gaod4re6g4ei800-514ab994a58df1ac--6NYlbfkN0CBRHd_iQPT1DElgM-OuNei7-v7Otuc4XjbXoyChXm3EAR6_pqO8IHYII5JiUtyBykz8K8TGV2wp34oitdRF79Uxlejupex7qOIqfS6NsxT3eUuKXoM80Zjchmh2pmfM1GTxXxjVtB4FKFnuUhI4COacGsbIRJV8vyMNHSM3Fzf9ETRSgap6w3IF6HmFPO96L0AfZf7PxckpRBUZc9CpJCrKsWZgktQBdXT6iJNkJUdbIPoG5Pd7jd31rx0GA4haP6dyqap9WHnh-LsLB4mMwLJXuc4JyZ3pgAfMpwle4VZzW-aOr8yajo-gkqInN3yMQ6JHefJoWgGax0M92fTQIvbzV9670TW1maRKnpwSyfC2ftE4Vn1Mq8GasP-Wc0KarfCj89oFTUHzygTWgT3HVQFlbb4n-yNCfDq2ih6dIJ0CTkm9RdcagxEEQkpTrWHkgos2XjrXge2aX57g618uKuRFAI6IhsSmpePath-UDkEvLudWn8Rfid9Dv4t0NWcQ3Eyf7lPCEqoLQ%3D%3D,"München, Deutschland",201 bis 500 Mitarbeiter
+Ratbacher,4.4,DevOps Engineer (m/w/d) - DevOps Spezialist,Hannover,"Firmenprofil
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen!
+Ihre Schwerpunkte
+Pflege, Automatisierung und Optimierung der Continuous Integration and Deployment Pipeline (Infrastructure as Code, Jenkins, Puppet)
+Design und Entwicklung von Software zur Automatisierung von Abläufen (Ansible, Python, Git)
+Entwicklung in agilen Projektteams im DevOps Cycle (Java, JEE, Rest)
+Betrieb und Design von Containerinfrastrukturen unter Docker, Kubernetes und VMware
+Aktive Mitarbeit bei der Migration bestehender Anwendungen in Cluster- und Cloud-Umgebungen (Azure, GCP, AWS)
+Ihre Benefits
+Sie erwartet ein Gehalt bis zu 85.000 € im Fixum + 10 % Bonus on top
+Außerdem haben Sie die Möglichkeit auf einen Firmenwagen, erhalten eine betriebliche Altersvorsorge, vermögenswirksame Leistungen und ein subventioniertes Jobticket
+Flexible Arbeitszeiten ohne Kernarbeitszeit mit 30 Urlaubstagen und der Möglichkeit 100 % remote zu arbeiten
+Realisieren Sie Ihre Reiseträume durch die Möglichkeit eines Sabbaticals
+Sprungbrett für Ihre Karriere mit einem individuellen Karriereplan, umfassenden Weiterbildungsmöglichkeiten sowie der Finanzierung von Zertifizierungen
+Ihre Qualifikationen
+Erfolgreich abgeschlossenes Studium im IT-Bereich oder eine Ausbildung im selben Bereich
+Mehrjährige Berufserfahrung als DevOps Engineer im Automatisierungsumfeld (mit Tools wie z. B. Ansible, Jenkins)
+Von Vorteil sind erste Programmierkenntnisse (in Java oder Python)
+Fließende Deutschkenntnisse sowie eine Bereitschaft zu projektbasierten Reisen runden Ihr Profil ab!
+Ihre Bewerbung
+Bitte senden Sie uns Ihre Bewerbungsunterlagen über den folgenden Bewerbungsbutton. Bei Fragen zu einer Vakanz oder zu Ihrer Bewerbung freut sich Frau Aylin Cetin auf Ihren Anruf unter +49 711 76105-735 .
+Eine Präsentation Ihrer Unterlagen bei unserem Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch mit Ihnen. Firmenprofil
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen!
+Ihre Schwerpunkte
+Pflege, Automatisierung und Optimierung der Continuous Integration and Deployment Pipeline (Infrastructure as Code, Jenkins, Puppet)
+Design und Entwicklung von Software zur Automatisierung von Abläufen (Ansible, Python, Git)
+Entwicklung in agilen Projektteams im DevOps Cycle (Java, JEE, Rest)
+Betrieb und Design von Containerinfrastrukturen unter Docker, Kubernetes und VMware
+Aktive Mitarbeit bei der Migration bestehender Anwendungen in Cluster- und Cloud-Umgebungen (Azure, GCP, AWS)
+Ihre Benefits
+Sie erwartet ein Gehalt bis zu 85.000 € im Fixum + 10 % Bonus on top
+Außerdem haben Sie die Möglichkeit auf einen Firmenwagen, erhalten eine betriebliche Altersvorsorge, vermögenswirksame Leistungen und ein subventioniertes Jobticket
+Flexible Arbeitszeiten ohne Kernarbeitszeit mit 30 Urlaubstagen und der Möglichkeit 100 % remote zu arbeiten
+Realisieren Sie Ihre Reiseträume durch die Möglichkeit eines Sabbaticals
+Sprungbrett für Ihre Karriere mit einem individuellen Karriereplan, umfassenden Weiterbildungsmöglichkeiten sowie der Finanzierung von Zertifizierungen
+Ihre Qualifikationen
+Erfolgreich abgeschlossenes Studium im IT-Bereich oder eine Ausbildung im selben Bereich
+Mehrjährige Berufserfahrung als DevOps Engineer im Automatisierungsumfeld (mit Tools wie z. B. Ansible, Jenkins)
+Von Vorteil sind erste Programmierkenntnisse (in Java oder Python)
+Fließende Deutschkenntnisse sowie eine Bereitschaft zu projektbasierten Reisen runden Ihr Profil ab!
+Ihre Bewerbung
+Bitte senden Sie uns Ihre Bewerbungsunterlagen über den folgenden Bewerbungsbutton. Bei Fragen zu einer Vakanz oder zu Ihrer Bewerbung freut sich Frau Aylin Cetin auf Ihren Anruf unter +49 711 76105-735 .
+Eine Präsentation Ihrer Unterlagen bei unserem Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch mit Ihnen. Firmenprofil
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen!
+Ihre Schwerpunkte
+Pflege, Automatisierung und Optimierung der Continuous Integration and Deployment Pipeline (Infrastructure as Code, Jenkins, Puppet)
+Design und Entwicklung von Software zur Automatisierung von Abläufen (Ansible, Python, Git)
+Entwicklung in agilen Projektteams im DevOps Cycle (Java, JEE, Rest)
+Betrieb und Design von Containerinfrastrukturen unter Docker, Kubernetes und VMware
+Aktive Mitarbeit bei der Migration bestehender Anwendungen in Cluster- und Cloud-Umgebungen (Azure, GCP, AWS)
+Ihre Benefits
+Sie erwartet ein Gehalt bis zu 85.000 € im Fixum + 10 % Bonus on top
+Außerdem haben Sie die Möglichkeit auf einen Firmenwagen, erhalten eine betriebliche Altersvorsorge, vermögenswirksame Leistungen und ein subventioniertes Jobticket
+Flexible Arbeitszeiten ohne Kernarbeitszeit mit 30 Urlaubstagen und der Möglichkeit 100 % remote zu arbeiten
+Realisieren Sie Ihre Reiseträume durch die Möglichkeit eines Sabbaticals
+Sprungbrett für Ihre Karriere mit einem individuellen Karriereplan, umfassenden Weiterbildungsmöglichkeiten sowie der Finanzierung von Zertifizierungen
+Ihre Qualifikationen
+Erfolgreich abgeschlossenes Studium im IT-Bereich oder eine Ausbildung im selben Bereich
+Mehrjährige Berufserfahrung als DevOps Engineer im Automatisierungsumfeld (mit Tools wie z. B. Ansible, Jenkins)
+Von Vorteil sind erste Programmierkenntnisse (in Java oder Python)
+Fließende Deutschkenntnisse sowie eine Bereitschaft zu projektbasierten Reisen runden Ihr Profil ab!
+Ihre Bewerbung
+Bitte senden Sie uns Ihre Bewerbungsunterlagen über den folgenden Bewerbungsbutton. Bei Fragen zu einer Vakanz oder zu Ihrer Bewerbung freut sich Frau Aylin Cetin auf Ihren Anruf unter +49 711 76105-735 .
+Eine Präsentation Ihrer Unterlagen bei unserem Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch mit Ihnen. Firmenprofil
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen! Firmenprofil
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen! 
+Sie suchen eine neue berufliche Herausforderung und haben Lust auf spannende und abwechslungsreiche Projekte? Dann ist das Ihre Chance! Ihr zukünftiger Arbeitgeber hat sich auf die Entwicklung und Umsetzung von Digitalisierungsstrategien spezialisiert. Gemeinsam werden Risiken im Rahmen der digitalen Transformation analysiert und diese in Chancen für die Erfolgssicherung umgewandelt. Zur Unterstützung des Teams sucht unser Mandant nach einem DevOps Engineer (m/w/d) in unbefristeter Festanstellung wahlweise für den Standort Hannover, Düsseldorf oder Berlin. Wir freuen uns auf Ihre Bewerbung!
+
+Ratbacher GmbH - Wir sind eine der führenden IT Personalberatungen der DACH-Region. Unsere Vision? Wir bringen IT Spezialisten mit den attraktivsten Arbeitgebern zusammen. Seit über 15 Jahren motiviert uns diese verantwortungsvolle Aufgabe täglich zu Bestleistungen. Mit einem Netzwerk von über 4.000 Top-Unternehmen und bereits über 7.000 erfolgreichen Vermittlungen besitzen wir die nötige Expertise, Ihnen den Weg zum neuen Traumjob zu ebnen! 
+Ihre Schwerpunkte
+Pflege, Automatisierung und Optimierung der Continuous Integration and Deployment Pipeline (Infrastructure as Code, Jenkins, Puppet)
+Design und Entwicklung von Software zur Automatisierung von Abläufen (Ansible, Python, Git)
+Entwicklung in agilen Projektteams im DevOps Cycle (Java, JEE, Rest)
+Betrieb und Design von Containerinfrastrukturen unter Docker, Kubernetes und VMware
+Aktive Mitarbeit bei der Migration bestehender Anwendungen in Cluster- und Cloud-Umgebungen (Azure, GCP, AWS) 
+Ihre Schwerpunkte
+Pflege, Automatisierung und Optimierung der Continuous Integration and Deployment Pipeline (Infrastructure as Code, Jenkins, Puppet)
+Design und Entwicklung von Software zur Automatisierung von Abläufen (Ansible, Python, Git)
+Entwicklung in agilen Projektteams im DevOps Cycle (Java, JEE, Rest)
+Betrieb und Design von Containerinfrastrukturen unter Docker, Kubernetes und VMware
+Aktive Mitarbeit bei der Migration bestehender Anwendungen in Cluster- und Cloud-Umgebungen (Azure, GCP, AWS) 
+Ihre Benefits
+Sie erwartet ein Gehalt bis zu 85.000 € im Fixum + 10 % Bonus on top
+Außerdem haben Sie die Möglichkeit auf einen Firmenwagen, erhalten eine betriebliche Altersvorsorge, vermögenswirksame Leistungen und ein subventioniertes Jobticket
+Flexible Arbeitszeiten ohne Kernarbeitszeit mit 30 Urlaubstagen und der Möglichkeit 100 % remote zu arbeiten
+Realisieren Sie Ihre Reiseträume durch die Möglichkeit eines Sabbaticals
+Sprungbrett für Ihre Karriere mit einem individuellen Karriereplan, umfassenden Weiterbildungsmöglichkeiten sowie der Finanzierung von Zertifizierungen 
+Ihre Benefits
+Sie erwartet ein Gehalt bis zu 85.000 € im Fixum + 10 % Bonus on top
+Außerdem haben Sie die Möglichkeit auf einen Firmenwagen, erhalten eine betriebliche Altersvorsorge, vermögenswirksame Leistungen und ein subventioniertes Jobticket
+Flexible Arbeitszeiten ohne Kernarbeitszeit mit 30 Urlaubstagen und der Möglichkeit 100 % remote zu arbeiten
+Realisieren Sie Ihre Reiseträume durch die Möglichkeit eines Sabbaticals
+Sprungbrett für Ihre Karriere mit einem individuellen Karriereplan, umfassenden Weiterbildungsmöglichkeiten sowie der Finanzierung von Zertifizierungen 
+Ihre Qualifikationen
+Erfolgreich abgeschlossenes Studium im IT-Bereich oder eine Ausbildung im selben Bereich
+Mehrjährige Berufserfahrung als DevOps Engineer im Automatisierungsumfeld (mit Tools wie z. B. Ansible, Jenkins)
+Von Vorteil sind erste Programmierkenntnisse (in Java oder Python)
+Fließende Deutschkenntnisse sowie eine Bereitschaft zu projektbasierten Reisen runden Ihr Profil ab! 
+Ihre Qualifikationen
+Erfolgreich abgeschlossenes Studium im IT-Bereich oder eine Ausbildung im selben Bereich
+Mehrjährige Berufserfahrung als DevOps Engineer im Automatisierungsumfeld (mit Tools wie z. B. Ansible, Jenkins)
+Von Vorteil sind erste Programmierkenntnisse (in Java oder Python)
+Fließende Deutschkenntnisse sowie eine Bereitschaft zu projektbasierten Reisen runden Ihr Profil ab!  
+Ihre Bewerbung
+Bitte senden Sie uns Ihre Bewerbungsunterlagen über den folgenden Bewerbungsbutton. Bei Fragen zu einer Vakanz oder zu Ihrer Bewerbung freut sich Frau Aylin Cetin auf Ihren Anruf unter +49 711 76105-735 .
+Eine Präsentation Ihrer Unterlagen bei unserem Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch mit Ihnen. 
+Ihre Bewerbung
+Bitte senden Sie uns Ihre Bewerbungsunterlagen über den folgenden Bewerbungsbutton. Bei Fragen zu einer Vakanz oder zu Ihrer Bewerbung freut sich Frau Aylin Cetin auf Ihren Anruf unter +49 711 76105-735 .
+Eine Präsentation Ihrer Unterlagen bei unserem Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch mit Ihnen. Mehr anzeigen ","Arbeitgeber-Schtz.:€85,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=426&ao=1110586&s=58&guid=00000182b0d26d6a810a83f04ae85cd7&src=GD_JOB_AD&t=SR&vt=w&cs=1_10022f07&cb=1660823957370&jobListingId=1007708869253&cpc=878687325D2A5CC7&jrtk=3-0-1gaod4rdqkcm3801-1gaod4re6g4ei800-8cc647b7bdd2676b--6NYlbfkN0CWwRHDFxQYLahxaD9cqaJIyswD7QX2RkGtwAfTMJQrRVAOVgrIY5uVblO7BjRlZGdnd5dwvnbu0Nw7n9jCuEEx7QWN2bloEubxxjiuDCJNhjxqxrT2vUWWlbmELUmi0GyAnKutt1SIxIXxiG9yYUDacaqpAsawpypUjCyee3PaUx9UyLjZx4i8v-Zot0EwRMH41JUMHRgHv9ciZsPcwP8yGA8Hm7OC7cGEMqtdl9XPy0Ugn5QGxQzoap1BEL7vOhP93-XCY0qPmGTZW1xlWNwXhXk-cmzytUJsQHGff2dhVQbgdLN9XrfpKG1kvTqmVLzkDyTPA8eBQNWmlV3ZCdOcRHCghcDrX0AR2sX5z46p6iE6Z8izXprsIOQQp5hANPbJc7pRT_IsMTfImmmpK0IyxfAv3ZycoBzH1N425IrbHwcha4A-JSEXF1rO7b_1gk46ZdSZGBP_HmVpWtxwEu2SHyrbtu2GFnnv3vpvokly5AoZjYd_Gt5DJDDRPz0O6pVHqsD2cx2Usa4pU7cVqqTWjffektxKnI_CpATRY2-rujRCdsUTRvaCbEMllg6PRgA%3D,"Stuttgart, Deutschland",51 bis 200 Mitarbeiter
+Workwise GmbH,4.6,Werkstudent Informatik - Tutor/ AWS/ Cloud Computing/ DevOps/ Homeoffice (m/w/d),Kaiserslautern,"Bist Du ein Life-Long-Learning Enthusiast? Möchtest du helfen die Digitalisierung in Deutschland voranzutreiben? Erfüllt es Dich Quereinsteiger in lukrative IT-Jobs zu bringen?
+Deine neuen Aufgaben
+Du unterstützt erfahrene Trainer:innen bei der Durchführung der Trainings
+Du moderierst Gruppenarbeiten und betreust Praxisprojekte
+Du erstellst Schulungsunterlagen, z.B. Übungen oder Projektarbeiten
+Du gibst Nachhilfe für kleine Gruppen
+
+So bist Du
+Du hast Spaß daran, anderen Menschen Wissen zu vermitteln
+Du besitzt erste Kenntnisse in der Administration von Infrastrukturen, in Cloud-Computing-Plattformen wie AWS und in aktuellen DevOps Tools
+Du programmierst gerne z.B. in Python oder einer artverwandten Programmiersprache
+Linux und Docker sind für dich keine Fremdwörter
+Du gehst sicher mit MS Office-Programmen um, insbesondere mit Teams
+Wenn Du bereits Erfahrung in der Durchführung von Seminaren/ Tutorien oder in der Nachhilfe mitbringst, wäre das ein Plus
+
+Das erwartet Dich bei uns
+Start ab sofort mit intensiver Einarbeitung und rundum Unterstützung durch unsere erfahrenen Trainer:innen
+Homeoffice (komplett remote) und zeitliche Flexibilität mit Rücksicht auf Deine Studienplanung
+Zwei der spannendsten Bereiche unserer Zukunft kombiniert: Bildung und Digitalisierung
+Weitreichende Einblicke in brandaktuelle IT-Themen
+Möglichkeit für Abschlussarbeiten und Übernahme nach Deinem Studium
+Freundschaftliches Miteinander, in dem immer das bessere Argument zählt ;)
+Du erwirbst neben technischem Wissen exzellente Präsentations-skills mit denen du dich an der Uni und im Berufsleben von deinen Kommilitonen abheben kannst
+
+Unser Jobangebot Werkstudent:in Informatik - Tutor:in Cloud Computing/ DevOps - Remote (m/w/d) klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen. Bist Du ein Life-Long-Learning Enthusiast? Möchtest du helfen die Digitalisierung in Deutschland voranzutreiben? Erfüllt es Dich Quereinsteiger in lukrative IT-Jobs zu bringen?
+Deine neuen Aufgaben
+Du unterstützt erfahrene Trainer:innen bei der Durchführung der Trainings
+Du moderierst Gruppenarbeiten und betreust Praxisprojekte
+Du erstellst Schulungsunterlagen, z.B. Übungen oder Projektarbeiten
+Du gibst Nachhilfe für kleine Gruppen
+
+So bist Du
+Du hast Spaß daran, anderen Menschen Wissen zu vermitteln
+Du besitzt erste Kenntnisse in der Administration von Infrastrukturen, in Cloud-Computing-Plattformen wie AWS und in aktuellen DevOps Tools
+Du programmierst gerne z.B. in Python oder einer artverwandten Programmiersprache
+Linux und Docker sind für dich keine Fremdwörter
+Du gehst sicher mit MS Office-Programmen um, insbesondere mit Teams
+Wenn Du bereits Erfahrung in der Durchführung von Seminaren/ Tutorien oder in der Nachhilfe mitbringst, wäre das ein Plus
+
+Das erwartet Dich bei uns
+Start ab sofort mit intensiver Einarbeitung und rundum Unterstützung durch unsere erfahrenen Trainer:innen
+Homeoffice (komplett remote) und zeitliche Flexibilität mit Rücksicht auf Deine Studienplanung
+Zwei der spannendsten Bereiche unserer Zukunft kombiniert: Bildung und Digitalisierung
+Weitreichende Einblicke in brandaktuelle IT-Themen
+Möglichkeit für Abschlussarbeiten und Übernahme nach Deinem Studium
+Freundschaftliches Miteinander, in dem immer das bessere Argument zählt ;)
+Du erwirbst neben technischem Wissen exzellente Präsentations-skills mit denen du dich an der Uni und im Berufsleben von deinen Kommilitonen abheben kannst
+
+Unser Jobangebot Werkstudent:in Informatik - Tutor:in Cloud Computing/ DevOps - Remote (m/w/d) klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen. Bist Du ein Life-Long-Learning Enthusiast? Möchtest du helfen die Digitalisierung in Deutschland voranzutreiben? Erfüllt es Dich Quereinsteiger in lukrative IT-Jobs zu bringen?
+Deine neuen Aufgaben
+Du unterstützt erfahrene Trainer:innen bei der Durchführung der Trainings
+Du moderierst Gruppenarbeiten und betreust Praxisprojekte
+Du erstellst Schulungsunterlagen, z.B. Übungen oder Projektarbeiten
+Du gibst Nachhilfe für kleine Gruppen
+
+So bist Du
+Du hast Spaß daran, anderen Menschen Wissen zu vermitteln
+Du besitzt erste Kenntnisse in der Administration von Infrastrukturen, in Cloud-Computing-Plattformen wie AWS und in aktuellen DevOps Tools
+Du programmierst gerne z.B. in Python oder einer artverwandten Programmiersprache
+Linux und Docker sind für dich keine Fremdwörter
+Du gehst sicher mit MS Office-Programmen um, insbesondere mit Teams
+Wenn Du bereits Erfahrung in der Durchführung von Seminaren/ Tutorien oder in der Nachhilfe mitbringst, wäre das ein Plus
+
+Das erwartet Dich bei uns
+Start ab sofort mit intensiver Einarbeitung und rundum Unterstützung durch unsere erfahrenen Trainer:innen
+Homeoffice (komplett remote) und zeitliche Flexibilität mit Rücksicht auf Deine Studienplanung
+Zwei der spannendsten Bereiche unserer Zukunft kombiniert: Bildung und Digitalisierung
+Weitreichende Einblicke in brandaktuelle IT-Themen
+Möglichkeit für Abschlussarbeiten und Übernahme nach Deinem Studium
+Freundschaftliches Miteinander, in dem immer das bessere Argument zählt ;)
+Du erwirbst neben technischem Wissen exzellente Präsentations-skills mit denen du dich an der Uni und im Berufsleben von deinen Kommilitonen abheben kannst
+
+Unser Jobangebot Werkstudent:in Informatik - Tutor:in Cloud Computing/ DevOps - Remote (m/w/d) klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen. Mehr anzeigen ",Arbeitgeber-Schtz.:€18 Pro Stunde,https://www.glassdoor.de/partner/jobListing.htm?pos=427&ao=1110586&s=58&guid=00000182b0d26d6a810a83f04ae85cd7&src=GD_JOB_AD&t=SR&vt=w&cs=1_af5abd77&cb=1660823957370&jobListingId=1008071999638&cpc=71532419B2302243&jrtk=3-0-1gaod4rdqkcm3801-1gaod4re6g4ei800-7bf519d963af0718--6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpABRNwjxOOibGSWtXJ-lnnPQ9pCpMIG8ejb0unPIICMtv893AR1NunrlUkfR3dM_pMCjOLx01WAOmU6ugMENLaxD7aLbC0oeN7n5HgQ_Z8flhXxQ5Q8EQK8fZSM2QWzb8P8g78oI9kIm4CpDGQu6m45M41I18gW38F_JNzpZLfH98sQ4FfT3A4Tww4kmLqX2ngQoIpIqGcLlAUcx3Yfz8A0FQ85wcS6HnTI3KfqBfEiNsI8UEHA88lz8fxv09oN39o07fWtt0m_nylxDxGL4vSedHO7uUlpQHPFm7BBoShPwbiYJh8JUAOxMucz4CUHnxjrvtNQ_KNB3vENXf9EJagWFEzUD7Qt-BFvZHibUIbgpxHh6J_f-ybNb-t5KzguFcYCz23RaH4yuLzsN60sCD5wrncFj7wSj6Ew0xu3Ylf-AXMzmobzV7UsQU96tdfEp9ZQkT2ggiY5xqjVHLT8WhW7ypP-JtI6PMGPBZ8s_GtyE-WU2iUtnDpqIl0hGQ9FPhhCnZVrq4tfyPpH7nSXDFQs%3D,"Karlsruhe, Deutschland",51 bis 200 Mitarbeiter
+Amadeus FiRe,4.1,Systemadministrator DevOps (m/w/d),Ahrensburg,"Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Systemadministrator DevOps (m/w/d)
+Referenz 13-127766
+
+Für ein internationales Handelsunternehmen mit Sitz im Hamburger Osten suchen wir zum schnellstmöglichen Zeitpunkt im Rahmen der Personalvermittlung in Festanstellung bei einem Gehalt von 70.000 bis 85.000 Euro Sie als Systemadministrator DevOps (m/w/d).
+
+Ihre Benefits:
+
+Flexible Arbeitszeiten
+Homeoffice-Möglichkeit
+Umfangreiche Fortbildungsmöglichkeiten
+Mitarbeiterevents
+Fitnessangebote
+Ergonomieberatung
+Kostenlose Getränke und gesundes Essen
+100% Weiterempfehlungsquote auf kununu
+
+Ihre Aufgaben:
+Verantwortung für und Administration der Server und Anwendungen
+Fortlaufende Optimierung und Sicherung der Systeme und Applikationen
+Schnittstellenfunktion zwischen Fachbereichen und Dienstleistern
+Konzeption neuer Projekte sowie Betreuung der Umsetzung
+
+Ihr Profil:
+Erfolgreich abgeschlossenes Studium der Informatik, Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare abgeschlossene IT Qualifikation
+Einschlägige Berufserfahrung sowie Kenntnisse im Server- und Netzwerkumfeld
+Kenntnisse in den Bereichen IT Sicherheit, Windows Serverbetriebssystemen und Cloudumgebungen
+Gute Kommunikations- und Problemlösungskompetenz
+Sehr gute Deutschkenntnisse in Wort und Schrift
+
+Die Amadeus FiRe AG bringt als spezialisierter Personaldienstleister jeden Tag Fach- und Führungskräfte aus dem kaufmännischen und IT-Bereich mit nationalen und internationalen Unternehmen zusammen. Nutzen Sie unsere persönlichen Kontakte zu Arbeitgebern bundesweit! Wir empfehlen Sie an unsere Kunden weiter und erleichtern Ihnen damit den Einstieg ins Unternehmen!
+
+Wir freuen uns auf Ihre Bewerbung als Systemadministrator DevOps (m/w/d). Sollten Sie Fragen im Vorfeld haben oder einen ersten vertraulichen Kontakt wünschen, steht Ihnen Herr Andreas Grube (Tel +49 (0) +49 40 357573-22 oder E-Mail it.hamburg@amadeus-fire.de) gerne zur Verfügung.
+
+
+Amadeus FiRe AG
+Niederlassung Hamburg
+Steindamm 98
+20099 Hamburg Mehr anzeigen ","Arbeitgeber-Schtz.:€70,000 - €85,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=521&ao=1110586&s=58&guid=00000182b0d354f390d750cfc21556e9&src=GD_JOB_AD&t=SR&vt=w&cs=1_007e249c&cb=1660824016581&jobListingId=1008075913005&cpc=0F120DD93C91FC85&jrtk=3-0-1gaod6l9m2go9001-1gaod6la72g8u000-7bac6efde0df5ccf--6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_-h5lektk8puAxoHBMdPOe64a4eN_Peo8hTRkU0j_ls2jZ1dYu9VJjNtZp55fqAC0v9YOG1O16pzekHbsatWSatmKu3SRQ6EpxRJI-CBy0T6EJV0bEpqwDkb4OIloUXf18deXQScf6dUrb6HIJC9nEEUJSAT0YesNfcoSaekNJ_Dt-8bYStKGocp4Fi72GRttKpae7DyiELCBxOlxSguk_Y3JT0HEV11aBnF7b_dSTiVI93bX6IBP0RDyrRSE6UsM8s99PbGUrHOaqYLjLZRI8NZlQSDqlCtFGWqTWerIbBUrbxuJOKyiROd86AGBoOog1F818AMNSQkjy6VUblXfTnr2hWjb_9cgl2GEgj1RExEer8tycpsQKvjxEdR5upPyh4XG6LV36T5ecOg2twoPJE9Jv7nt0EdgCpN2wZnlh5uVB1rNAoNftDf6TK10KtkdD67ZfvP9Lcm2xpoYkLsfzveq_qWXubg05VuoFg693Tt98ZlxUKRzmNMtbuQPnaQBXQ60VMWYJH-v_69FVk-le9-8Mnbk9jcmqgBOBdz2S6QG6s3PI_-9kqAFSzCDOO9iAN6HJLxv2UwqfiwvhrA93b5T9W2xwnicU-i4H86SVbLwqmIveJXSooywjAh-32lNxoiBgjRJEzFMXNtXyXD1aOUNI9fyYyPMYig9yd5rVqYQkscqNIpALK3tMLJl_NWU3HsOhJpSrG1yWQGI7OWTXoobOlk0IDTDWpL1mGoyRhPT7rOSRmWI-e86sjRqJegCd68yWkjmE44AuwFcHUioj_WZ_T2esAmDJIrxsXXBuL2PCXgLV-6_CD2zlczAjOnJOq-LDsKOR4ab3bMJHOTJ1NbbWLgZek0SbQhEUz-4HmcXPs1d7CEf2vI7PCfMqYoAOhMIkK2yqv5HEg3paw7Xy-OVut9eeGSU_aZMnZfZLHOIWTA9OfNJfPHCJ4xTywqSIRotKFVd1-6D1Sg5PnpdYzBfqXotGu4ZqOeopPZS5kGjgsiC5hN36o%3D,"Frankfurt am Main, Deutschland",1.001 bis 5.000 Mitarbeiter
+iteratec GmbH,4.5,Softwareentwickler (m|w|d),Düsseldorf,"Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Typisch iteratecSeit 1996 entwickeln wir individuelle Softwaresysteme und digitale Produkte und verändern so, wie wir als Gesellschaft arbeiten, lernen und leben. Dafür haben wir uns einer klaren Ambition verschrieben: Developing Digital Champions. Dies ist der Anspruch an unsere Arbeit und das Versprechen, das wir unseren Kunden geben. Dafür brauchen wir neben zukunftssicheren Technologien vor allem eins: das beste Team!Was dich erwartetProjektumfeld: wir entwickeln individuelle Softwarelösungen – von der klassischen Businessapplikation über Mobile Apps bis hin zu Data- und IoT-Lösungen.Coding: du entwickelst anspruchsvolle Softwarelösungen und bildest damit komplexe Geschäftsprozesse ab.Agile: wir arbeiten agil und richten unsere Projekte danach aus.Technikvielfalt: wir nutzen einen breiten Tech Stack – v.a. Java, Kotlin, Spring, TypeScript, JavaScript, Angular und React, daneben moderne DevOps-Tools wie Kubernetess, Docker und Terraform sowie verschiedene Cloud-Plattformen (AWS, Azure, GCP).Was du mitbringstErfahrung in der agilen Softwareentwicklung, idealerweise bereits konkrete Projekterfahrung.Einen passenden Tech Stack: du nutzt einige unserer Kerntechnologien (Java, Kotlin, Spring, TypeScript, JavaScript, Angular, React, Docker, Terraform, Kubernetes, AWS, Azure, GCP).Unser Angebot an dichArbeiten bei einem „Great Place to Work“: Seit 2014 nehmen wir an der jährlichen Mitarbeiterbefragung von „Great Place to Work“ teil – auch in diesem Jahr zählen wir zu den besten Arbeitgebern Deutschlands und der ITK-Branche.Exzellente Kolleg*innen: vielfältiges & motiviertes Team, mit dem es Spaß macht, Probleme für anspruchsvolle Projekte zu lösen.Vielfältige Entwicklungsmöglichkeiten: Kontinuierliche Potentialentfaltung durch ein unbegrenztes Budget für Deine Weiterentwicklung (Trainings, Konferenzen und Coachings etc.).Berufliche Abenteuer und Freiraum für Gestaltung: durch inspirierende und sinnstiftende Projekte und individuellen Freiräume, z. B. beim „Innovation Frei-Day“, in unseren Communities oder als Mentor.Der Mensch steht immer an erster Stelle: Achtsames Miteinander und Füreinander in einer leistungsorientieren Wohlfühlatmosphäre.Einen rundum modernen Arbeitsplatz: Freiheit in der Arbeitszeitgestaltung durch hybrides Arbeiten und Gleitzeitregelungen sowie frei wählbares Equipment (Smartphone, Laptop), moderne Büros und ergonomische Arbeitsplätze.Förderung deines Engagements: bei Barcamps, auf Konferenzen, als Lehrbeauftragter oder Autor.Außergewöhnliche Mitgestaltungsmöglichkeiten: durch unsere Genossenschaft, bei der Du Miteigentümer von iteratec werden kannst.Gesundheit und Vorsorge: Zuschuss zu Gesundheitsangeboten, Coachings und betriebliche Altersvorsorge, sowie die Möglichkeit, bis zu 10 Tage zusätzlichen Urlaub zu kaufen.Geldwerte Vorteile: Essenszuschuss, eine Prepaid-Kreditkarte für private Zwecke, Zuschuss zum ÖPNV sowie Fahrrad Leasing über JobRad, Kindergartenzuschuss.Art der Stelle: Vollzeit, FestanstellungGehalt: 58.000,00€ - 79.000,00€ pro JahrArbeitszeiten:8-Stunden-SchichtLeistungen:Betriebliche AltersvorsorgeBetriebliche WeiterbildungFirmenhandyGleitzeitKostenlose GetränkeKostenloses oder Vergünstigtes EssenSprachkenntnisse werden vermitteltUmzugskostenzuschussMaßnahmen im Angesicht von COVID-19:Masken werden empfohlen, regelmäßiges Testen, Abstände werden eingehalten, Homeoffice ist möglich & gewünscht Mehr anzeigen ","Arbeitgeber-Schtz.:€58,000 - €79,000 ",https://www.glassdoor.de/partner/jobListing.htm?pos=528&ao=1110586&s=58&guid=00000182b0d354f390d750cfc21556e9&src=GD_JOB_AD&t=SR&vt=w&cs=1_0cfaab54&cb=1660824016582&jobListingId=1008022506449&cpc=F1F9710DED3F09F8&jrtk=3-0-1gaod6l9m2go9001-1gaod6la72g8u000-514ab994a58df1ac--6NYlbfkN0CBRHd_iQPT1DElgM-OuNei7-v7Otuc4XjbXoyChXm3EAR6_pqO8IHYII5JiUtyBykz8K8TGV2wp34oitdRF79Uxlejupex7qOIqfS6NsxT3eUuKXoM80Zjchmh2pmfM1GTxXxjVtB4FKFnuUhI4COacGsbIRJV8vyMNHSM3Fzf9ETRSgap6w3IF6HmFPO96L3erXkmwjun1wFah59A1m4Dg6j0og4Yev_5uv-xQ6ZzfeWjQDzqOMINmoiI_aJyOonlpD0N00Xf2BMpbB1XGE_4ZtuiVFQUlUEBJNp9oQgtOLtZo448wmIuh2-bUW1JVoyYd_d0aCGBOFPyOowjc9r2iOGJvific5DncRMnv_7TbpIn5Fn7h3m77TBD4Ab-uTbJ8ujpTRZ_iXF10fWFb7tXsMJLRFYXG1wewwaZuh1m1ehn7wmTB68Zbz8SSDrhMporpIZ_mt5moubj72AJZ5oQxFkB-bf9QkGeOZyD2CljKqaSOX5Fb9UR43x2XGMzq_OxG_NAy3EEJw%3D%3D,"München, Deutschland",201 bis 500 Mitarbeiter
